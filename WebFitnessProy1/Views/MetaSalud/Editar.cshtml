@@ -1,0 +1,48 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Editar Meta Salud</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Editar Meta de Salud</h1>
+
+        <form action="@Url.Action("Actualizar", "MetaSalud")" method="post" class="mt-4">
+            <input type="hidden" name="IdMeta" value="@ViewBag.IdMeta" />
+
+            <div class="form-group">
+                <label>Correo Usuario:</label>
+                <input type="text" name="Email" value="@ViewBag.Email" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Fecha Objetivo:</label>
+                <input type="date" name="FechaObjetivo" value="@ViewBag.FechaObjetivo" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Tipo de Meta:</label>
+                <input type="text" name="TipoMeta" value="@ViewBag.TipoMeta" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Peso Objetivo:</label>
+                <input type="number" name="PesoObjetivo" value="@ViewBag.PesoObjetivo" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Nivel Actividad Deseada:</label>
+                <textarea class="form-control" name="NivelActividadDes" value="@ViewBag.NivelActividadDes"></textarea>
+
+            </div>
+            <div class="form-group">
+                <label>ObjEspecificos:</label>
+                <textarea class="form-control" name="ObjEspecificos" value="@ViewBag.ObjEspecificos"></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Actualizar</button>
+        </form>
+    </div>
+
+</body>
+</html>

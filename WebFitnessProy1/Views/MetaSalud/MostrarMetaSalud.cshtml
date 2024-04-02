@@ -1,0 +1,54 @@
+﻿@model System.Data.DataTable
+@using System.Data
+
+@{
+    ViewBag.Title = "MostrarMetaSalud";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mostrar Metas Salud</title>
+</head>
+<body>
+    <h1>Historial de Metas de Salud</h1>
+
+
+    <table class="table" border="1">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID Meta</th>
+                <th>Correo</th>
+                <th>Tipo Meta</th>
+                <th>Peso Objetivo</th>
+                <th>Fecha Objetivo</th>
+                <th>N. Activ. Deseado</th>
+                <th>Obj. Especificos</th>
+            </tr>
+        </thead>
+
+        @foreach (DataRow row in Model.Rows)
+        {
+            <tr>
+                <td>@row["IdMeta"]</td>
+                <td>@row["Correo"]</td>
+                <td>@row["TipoMeta"]</td>
+                <td>@row["PesoObjetivo"]</td>
+                <td>@row["FechaObjetivo"]</td>
+                <td>@row["NivelActiviadDes"]</td>
+                <td>@row["ObjEspecificos"]</td>
+                <td>
+                    <!-- Enlaces o botones para modificar o eliminar el registro -->
+                    <a href="@Url.Action("Editar", "MetaSalud", new { id = @row["IdMeta"] })">Editar</a> |
+                    <a href="@Url.Action("Eliminar", "MetaSalud", new { id = @row["IdMeta"] })">Eliminar</a>
+                </td>
+
+            </tr>
+        }
+    </table>
+
+    <!-- Enlace para regresar a la vista RegistrarDieta -->
+    <a href="@Url.Action("RegistrarMetaSalud", "MetaSalud")" class="btn btn-secondary mb-4">Volver a Registrar Meta de Salud</a>
+</body>
+</html>
+

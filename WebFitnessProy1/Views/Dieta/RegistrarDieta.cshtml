@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "Registrar Dieta";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">Registrar Dieta</h2>
+
+
+        <form action="@Url.Action("RegistrarDieta", "Dieta")" method="post">
+
+            <div class="form-group">
+                <label for="IdUsuario">Usuario actual:</label>
+                <input type="text" class="form-control" id="IdUsuario" name="IdUsuario" value="@Model.Email" readonly>
+            </div>
+            <div class="form-group">
+                <label for="FechaComida">Fecha de la Comida:</label>
+                <input type="date" class="form-control" id="FechaComida" name="FechaComida" required>
+            </div>
+
+
+            <div class="form-group">
+                <label for="TipoComida">Tipo de Comida:</label>
+
+                <!-- Menú desplegable -->
+                <select class="form-select" aria-label="Default select example" id="TipoComida" name="TipoComida" required">
+                    <option selected>Seleccione una opción</option>
+                    <option value="Almuerzo">Desayuno</option>
+                    <option value="Desayuno">Almuerzo</option>
+                    <option value="Merienda">Merienda</option>
+                    <option value="Cena">Cena</option>
+                    <option value="Otros">Otros</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="AlimentosConsumidos">Alimentos Consumidos:</label>
+                <textarea class="form-control" id="AlimentosConsumidos" name="AlimentosConsumidos" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="CaloriasTotales">Calorías Totales:</label>
+                <input type="number" class="form-control" id="CaloriasTotales" name="CaloriasTotales" required>
+            </div>
+            <div class="form-group">
+                <label for="Comentarios">Comentarios:</label>
+                <textarea class="form-control" id="Comentarios" name="Comentarios"></textarea>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Guardar</button>
+                <a class="small-text" href="@Url.Action("MostrarDieta", "Dieta")" style="margin-left: 1cm;">Ver Historial de Dieta</a>
+            </div>
+
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Verifica si la URL contiene un parámetro de querystring "exito" con valor "true"
+            var urlParams = new URLSearchParams(window.location.search);
+            var exito = urlParams.get('exito');
+
+            // Si se ha creado la dieta exitosamente, muestra una alerta
+            if (exito === 'true') {
+                alert('¡La dieta se ha registrado correctamente!');
+            }
+        });
+    </script>
+</body>
+</html>
+

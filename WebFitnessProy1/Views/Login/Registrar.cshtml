@@ -1,0 +1,96 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Registrar</title>
+
+    <!-- Enlace al archivo CSS de Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Enlace a la biblioteca de Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="~/Content/css/Login.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="main">
+
+        <div class="container">
+            <center>
+                <div class="middle">
+                    <div id="login">
+
+                        @if (ViewData["Mensaje"] != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                <h5>@ViewData["Mensaje"]</h5>
+                            </div>
+                        }
+
+                        <form action="@Url.Action("Registrar", "Login")" method="post" enctype="multipart/form-data">
+
+                            <fieldset class="clearfix">
+
+                                <p><span class="fa fa-envelope"></span><input type="email" name="email" Placeholder="Email" required></p>
+                                <p><span class="fa fa-lock"></span><input type="password" name="clave" Placeholder="Contraseña" required></p>
+                                <p><span class="fa fa-lock"></span><input type="password" name="confirmarClave" Placeholder="Confirmar contraseña" required></p>
+                                <p><span class="fa fa-user"></span><input type="text" name="nombre" Placeholder="Nombre" required></p>
+                                <p><span class="fa fa-weight"></span><input type="text" name="pesoActual" Placeholder="Peso (kg)" required></p>
+                                <p><span class="fa fa-building"></span><input type="text" name="altura" Placeholder="Altura (cm)" required></p>
+                                <p><span class="fa fa-calendar"></span><input type="date" name="fechaNacimiento" Placeholder="Fecha de nacimiento" required></p>
+
+                                <p>
+                                    <span class="fa fa-venus-mars"></span>
+                                    <!-- Menú desplegable -->
+                                    <select class="form-select" aria-label="Default select example" name="genero">
+                                        <option selected>Seleccione una opción</option>
+                                        <option value="M">Masculino</option>
+                                        <option value="F">Femenino</option>
+                                        <option value="NB">No Binario</option>
+                                        <option value="NR">Prefiero no indicarlo</option>
+                                    </select>
+                                </p>
+
+                                <p>
+                                    <span class="fa fa-image"></span>
+                                    <input type="file" id="imagen" name="imagen" />
+                                </p>
+
+                                <div>
+                                    <span style="width:48%; text-align:left;  display: inline-block;">
+                                        <a class="small-text" href="@Url.Action("Acceder", "Login")">
+                                            Iniciar sesión
+                                        </a>
+                                    </span>
+                                    <span style="width:50%; text-align:right;  display: inline-block;"><input type="submit" value="Registrarse"></span>
+                                </div>
+
+                            </fieldset>
+
+                            <div class="clearfix"></div>
+                        </form>
+
+                        <div class="clearfix"></div>
+
+                    </div> <!-- end login -->
+                    <div class="logo">
+                        REGISTRO
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </center>
+        </div>
+
+    </div>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</body>
+</html>

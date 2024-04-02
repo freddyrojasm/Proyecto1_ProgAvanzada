@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Registrar";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    @if (ViewBag.Title != null)
+    {
+        <title>@ViewBag.Title</title>
+    }
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">Crear Actividad Física</h2>
+
+        <form action="@Url.Action("Registrar", "ActividadFisica")" method="post">
+            <div class="form-group">
+                <label for="IdUsuario">Usuario actual:</label>
+                <input type="text" class="form-control" id="IdUsuario" name="IdUsuario" value="@Model.Email" readonly>
+            </div>
+
+            <div class="form-group">
+                <label for="IdActividad">Tipo de Actividad:</label>
+                <!-- Menú desplegable -->
+                <select class="form-select" aria-label="Default select example" id="tipoActividad" name="tipoActividad" required>
+                    <option selected>Seleccione una opción</option>
+                    <option value="Correr">Correr</option>
+                    <option value="Caminar">Caminar</option>
+                    <option value="Spinning">Spinning</option>
+                    <option value="Nadar">Nadar</option>
+                    <option value="Aérobicos">Aérobicos</option>
+                    <option value="Levantar pesas">Levantar pesas</option>
+                    <option value="Otros">Otros</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="fechaHora">Fecha y Hora:</label>
+                <input type="datetime-local" class="form-control" id="fechaHora" name="fechaHora" max="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm")" required>
+            </div>
+            <div class="form-group">
+                <label for="duracion">Duración (minutos):</label>
+                <input type="text" class="form-control" id="duracion" name="duracion" required>
+            </div>
+            <div class="form-group">
+                <label for="distanciaRecorrida">Distancia Recorrida (km):</label>
+                <input type="number" class="form-control" id="distanciaRecorrida" name="distanciaRecorrida">
+            </div>
+            <div class="form-group">
+                <label for="caloriasQuemadas">Calorías Quemadas (unidades):</label>
+                <input type="number" class="form-control" id="caloriasQuemadas" name="caloriasQuemadas">
+            </div>
+            <div class="form-group">
+                <label for="comentarios">Comentarios:</label>
+                <textarea class="form-control" id="comentarios" name="comentarios"></textarea>
+            </div>
+            
+                 <div class="form-group">
+                <button type="submit" class="btn btn-primary">Registrar</button>
+                <a class="small-text" href="@Url.Action("MostrarActividad", "ActividadFisica")" style="margin-left: 1cm;">Ver Historial de Actividades Físicas</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
