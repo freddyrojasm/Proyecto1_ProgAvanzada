@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|c:\\users\\frojas3\\source\\repos\\proy1\\webfitnessproy1\\webfitnessproy1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\controllers\\actividadfisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\controllers\\actividadfisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\metasalud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\metasalud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\dieta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\dieta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\actividadfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\actividadfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|c:\\users\\frojas3\\source\\repos\\proy1\\webfitnessproy1\\webfitnessproy1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\controllers\\dietacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\views\\dieta\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\views\\dieta\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\dieta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\dieta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\views\\dieta\\mostrardieta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\views\\actividadfisica\\mostraractividad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\controllers\\metasaludcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\controllers\\metasaludcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\views\\dieta\\registrardieta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\views\\dieta\\registrardieta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\views\\login\\acceder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -73,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\views\\metasalud\\mostrarmetasalud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\views\\metasalud\\mostrarmetasalud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\metasalud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\metasalud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\models\\actividadfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|solutionrelative:webfitnessproy1\\models\\actividadfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D62EF4-CE7C-405C-B417-A7D79BA5B22F}|WebFitnessProy1\\WebFitnessProy1.csproj|C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\webfitnessproy1\\views\\actividadfisica\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,27 +126,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DietaController.cs",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\DietaController.cs",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Controllers\\DietaController.cs",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\DietaController.cs",
-              "RelativeToolTip": "WebFitnessProy1\\Controllers\\DietaController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGcAAAAQAAAA",
+              "DocumentIndex": 3,
+              "Title": "MetaSalud.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\MetaSalud.cs",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\MetaSalud.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\MetaSalud.cs",
+              "RelativeToolTip": "WebFitnessProy1\\Models\\MetaSalud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:24:17.199Z"
+              "WhenOpened": "2024-04-01T23:01:25.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
-              "RelativeToolTip": "WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T17:26:01.449Z"
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebFitnessProy1\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:42:29.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebFitnessProy1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:40:52.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,19 +173,8 @@
               "RelativeToolTip": "WebFitnessProy1\\Models\\Dieta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:24:40.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DBConexion.cs",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\DBConexion.cs",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
-              "RelativeToolTip": "WebFitnessProy1\\Models\\DBConexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:27:47.303Z"
+              "WhenOpened": "2024-04-01T14:24:40.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,13 +184,40 @@
               "RelativeDocumentMoniker": "WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
               "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
               "RelativeToolTip": "WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAowEoAAAAMAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:24:04.414Z"
+              "WhenOpened": "2024-04-01T14:24:04.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "DBConexion.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\DBConexion.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
+              "RelativeToolTip": "WebFitnessProy1\\Models\\DBConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:27:47.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActividadFisica.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "RelativeToolTip": "WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:25:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Shared\\_Layout.cshtml",
@@ -199,7 +230,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
+              "RelativeToolTip": "WebFitnessProy1\\Views\\Dieta\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:26:01.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DietaController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\DietaController.cs",
+              "RelativeDocumentMoniker": "WebFitnessProy1\\Controllers\\DietaController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\DietaController.cs",
+              "RelativeToolTip": "WebFitnessProy1\\Controllers\\DietaController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:24:17.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MostrarDieta.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\MostrarDieta.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Dieta\\MostrarDieta.cshtml",
@@ -211,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "MetaSaludController.cs",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\MetaSaludController.cs",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Controllers\\MetaSaludController.cs",
@@ -223,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Editar.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\ActividadFisica\\Editar.cshtml",
@@ -231,23 +286,25 @@
               "RelativeToolTip": "WebFitnessProy1\\Views\\ActividadFisica\\Editar.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T21:39:56.996Z"
+              "WhenOpened": "2024-04-01T21:39:56.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebFitnessProy1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T08:57:58.554Z"
+              "WhenOpened": "2024-04-02T08:57:58.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MostrarActividad.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\MostrarActividad.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\ActividadFisica\\MostrarActividad.cshtml",
@@ -255,35 +312,12 @@
               "RelativeToolTip": "WebFitnessProy1\\Views\\ActividadFisica\\MostrarActividad.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAqwCQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T21:33:38.929Z"
+              "WhenOpened": "2024-04-01T21:33:38.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
-              "RelativeToolTip": "WebFitnessProy1\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:42:29.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "WebFitnessProy1\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAIwGwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:40:52.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RegistrarDieta.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
@@ -291,11 +325,12 @@
               "RelativeToolTip": "WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T15:05:41.845Z"
+              "WhenOpened": "2024-04-01T15:05:41.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\MetaSalud\\Editar.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\MetaSalud\\Editar.cshtml",
@@ -307,19 +342,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Acceder.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
               "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
               "RelativeToolTip": "WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB4AAAAiAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T14:44:00.423Z"
+              "WhenOpened": "2024-04-01T14:44:00.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MostrarMetaSalud.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\MetaSalud\\MostrarMetaSalud.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\MetaSalud\\MostrarMetaSalud.cshtml",
@@ -331,39 +367,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "RegistrarMetaSalud.cshtml",
               "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\MetaSalud\\RegistrarMetaSalud.cshtml",
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\MetaSalud\\RegistrarMetaSalud.cshtml",
               "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\MetaSalud\\RegistrarMetaSalud.cshtml",
               "RelativeToolTip": "WebFitnessProy1\\Views\\MetaSalud\\RegistrarMetaSalud.cshtml",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADQAAABkAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAEBVwDQAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T07:43:31.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MetaSalud.cs",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\MetaSalud.cs",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\MetaSalud.cs",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\MetaSalud.cs",
-              "RelativeToolTip": "WebFitnessProy1\\Models\\MetaSalud.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T23:01:25.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ActividadFisica.cs",
-              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
-              "RelativeDocumentMoniker": "WebFitnessProy1\\Models\\ActividadFisica.cs",
-              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
-              "RelativeToolTip": "WebFitnessProy1\\Models\\ActividadFisica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:25:13.487Z"
+              "WhenOpened": "2024-04-02T07:43:31.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -373,9 +386,10 @@
               "RelativeDocumentMoniker": "WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
               "ToolTip": "C:\\Users\\frojas3\\source\\repos\\proy1\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
               "RelativeToolTip": "WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAABRwEEAAAASAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAABhwEEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T14:34:41.453Z"
+              "WhenOpened": "2024-04-01T14:34:41.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -387,7 +401,8 @@
               "RelativeToolTip": "WebFitnessProy1\\Views\\Login\\Registrar.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T14:43:38.573Z"
+              "WhenOpened": "2024-04-01T14:43:38.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -399,7 +414,8 @@
               "RelativeToolTip": "WebFitnessProy1\\Content\\JavaScript.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-01T19:25:35.11Z"
+              "WhenOpened": "2024-04-01T19:25:35.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -411,7 +427,8 @@
               "RelativeToolTip": "WebFitnessProy1\\Permisos\\ValidarAcceso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:47:40.46Z"
+              "WhenOpened": "2024-04-01T14:47:40.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
