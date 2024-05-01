@@ -1,0 +1,59 @@
+﻿
+﻿@model System.Data.DataTable
+@using System.Data
+
+@{
+    ViewBag.Title = "MostrarObra";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Obras de Arte subidas</title>
+
+    <link href="~/Content/css/ObraArte.css" rel="stylesheet" />
+    <script src="~/Scripts/Script.js"></script>
+</head>
+<body>
+    <h1>Obras de arte disponibles para subastar</h1>
+
+
+    <table class="table" border="1">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID Obra</th>
+                <th>ID Usuario</th>
+                <th>Categoría</th>
+                <th>Titulo</th>
+                <th>Descripción</th>
+                <th>Dimensión (largo)</th>
+                <th>Dimensión (ancho)</th>
+                <th>Imagen</th>
+            </tr>
+        </thead>
+
+        @foreach (DataRow row in Model.Rows)
+        {
+            <tr>
+                <td>@row["Id"]</td>
+                <td>@row["IdUsuario"]</td>
+                <td>@row["Categoria"]</td>
+                <td>@row["Titulo"]</td>
+                <td>@row["Descripcion"]</td>
+                <td>@row["DimensionLargo"]</td>
+                <td>@row["DimensionAncho"]</td>
+                <td>
+                    <img src="data:image;base64,@Convert.ToBase64String((byte[])row["Imagen"])" alt="Imagen de la obra de arte" class="imagen-recuadro" onclick="mostrarImagen(this)" />
+                </td>
+                <td>
+                    <!-- Enlaces o botones para modificar o eliminar el registro -->
+                    <a href="@Url.Action("RegistrarSubasta", "Subasta", new { id = @row["Id"] })">Subastar</a>
+                </td>
+            </tr>
+        }
+    </table>
+
+    <!-- Enlace para regresar a la vista RegistrarDieta -->
+    <a href="@Url.Action("RegistrarObra", "ObraArte")" class="btn btn-secondary mb-4">Volver a Cargar Obra de Arte</a>
+</body>
+</html>

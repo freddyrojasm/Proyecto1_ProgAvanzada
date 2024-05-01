@@ -1,0 +1,75 @@
+﻿﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crear Subasta</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/css/RegistraSubasta.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+
+        <h2 class="text-center mb-4">Crear Subasta</h2>
+
+            
+        <form action="@Url.Action("Actualizar", "ActividadFisica")" method="post" class="mt-4">
+
+            <input type="hidden" name="Id" value="@ViewBag.Id" class="form-control" readonly />
+
+            <div class="form-group">
+                <label>Usuario (email):</label>
+                <input type="text" name="Email" value="@Model.Email" class="form-control" readonly />
+            </div>
+
+            <div class="form-group">
+                <label for="Titulo">Título:</label>
+                <input type="text" value="@ViewBag.Titulo" class="form-control" readonly>
+            </div>
+
+            <div class="form-group">
+                <label for="Descripcion">Descripción:</label>
+                <input type="text" value="@ViewBag.Descripcion" class="form-control" readonly>
+            </div>
+
+            <div class="form-group">
+                <label for="precioinicial">Precio Inicial ₡:</label>
+                <input type="number" class="form-control" id="precioinicial" name="precioInicial" required>
+            </div>
+
+            <div class="form-group">
+                <label for="fechaHora">Fecha y Hora:</label>
+                <input type="datetime-local" class="form-control" id="fechaHora" name="FechaHora" max="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm")" required>
+            </div>
+            <div class="form-group">
+                <label for="duracion">Duración (minutos):</label>
+                <input type="text" class="form-control" id="duracion" name="duracion" required>
+            </div>
+
+
+            <div class="form-group">
+                <label for="imagen">Imagen:</label>
+                <div class="imagen-container">
+
+                    @if (ViewBag.Imagen != null)
+                    {
+                        <img src="data:image;base64,@Convert.ToBase64String(ViewBag.Imagen)" class="imagen-recuadro" alt="Imagen">
+                    }
+                    else
+                    {
+                        <p>No se encontró ninguna imagen.</p>
+                    }
+
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="comentarios">Comentarios:</label>
+                <textarea class="form-control" id="comentarios" name="comentarios"></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Crear subasta</button>
+        </form>
+    </div>
+
+</body>
+</html>

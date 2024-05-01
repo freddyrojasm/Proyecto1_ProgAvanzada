@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "RegistrarObra";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    @if (ViewBag.Title != null)
+    {
+        <title>@ViewBag.Title</title>
+    }
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">Cargar datos de Obra de Arte</h2>
+
+        <form action="@Url.Action("RegistrarObra", "ObraArte")" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="UsuarioActual">Usuario actual: @Model.Email (@Model.TipoUsuario)</label>
+            </div>
+
+            <div class="form-group">
+                <label for="titulo">Título:</label>
+                <input type="text" class="form-control" id="titulo" name="titulo" required>
+            </div>
+
+            <div class="form-group">
+                <label for="descripcion">Descripción:</label>
+                <input type="text" class="form-control" id="descripcion" name="descripcion">
+            </div>
+
+            <div class="form-group">
+                <label for="CatObraArte">Categoría:</label>
+                <!-- Menú desplegable -->
+                <select class="form-select" aria-label="Default select example" id="categoría" name="categoria" required>
+                    <option selected>Seleccione una opción</option>
+                    <option value="Realismo">Realismo</option>
+                    <option value="Hiperrealismo">Hiperrealismo</option>
+                    <option value="Surrealismo">Surrealismo</option>
+                    <option value="Impresionismo">Impresionismo</option>
+                    <option value="Abstracto">Abstracto</option>
+                    <option value="Gótico">Gótico</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="dimensiones">Dimensión (largo en cm):</label>
+                <input type="number" class="form-control" id="dimensionLargo" name="dimensionLargo">
+                <label for="dimensiones">Dimensión (ancho en cm):</label>
+                <input type="number" class="form-control" id="dimensionAncho" name="dimensionAncho">
+            </div>
+
+            <div class="form-group">
+                <p>
+                    <span class="fa fa-image"></span>
+                    <input type="file" id="imagen" name="imagen" />
+                </p>
+            </div>
+
+                <button type="submit" class="btn btn-primary">Cargar registro de obra</button>
+        </form>
+    </div>
+</body>
+</html>

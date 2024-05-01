@@ -1,0 +1,10 @@
+﻿
+.imagen-recuadro {
+    max-width: 100px; /* Ancho máximo */
+    max-height: 100px; /* Altura máxima */
+    transition: transform 0.2s ease; /* Transición suave */
+}
+
+    .imagen-recuadro:hover {
+        transform: scale(1.4); /* Aumentar en 20% al pasar el mouse */
+    }

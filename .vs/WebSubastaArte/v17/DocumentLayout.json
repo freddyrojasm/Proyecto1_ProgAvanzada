@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|c:\\users\\frojas3\\source\\repos\\websubastaarte\\websubastaarte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\controllers\\obraartecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\controllers\\obraartecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\controllers\\subastacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\controllers\\subastacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\models\\obraarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\models\\obraarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\models\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\models\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\views\\subasta\\registrarsubasta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\views\\subasta\\registrarsubasta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\content\\css\\registrasubasta.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\content\\css\\registrasubasta.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\content\\css\\registraobra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\content\\css\\registraobra.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\views\\obraarte\\registrarobra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\views\\obraarte\\registrarobra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\content\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\content\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\websubastaarte\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60CE56E8-958B-44C9-A7AC-21FE57182172}|WebSubastaArte\\WebSubastaArte.csproj|solutionrelative:websubastaarte\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\SubastaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Subasta\\RegistrarSubasta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Permisos\\ValidarAcceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Dieta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebSubastaArte\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T07:50:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubastaController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Controllers\\SubastaController.cs",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Controllers\\SubastaController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Controllers\\SubastaController.cs",
+              "RelativeToolTip": "WebSubastaArte\\Controllers\\SubastaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:00:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObraArteController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Controllers\\ObraArteController.cs",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Controllers\\ObraArteController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Controllers\\ObraArteController.cs",
+              "RelativeToolTip": "WebSubastaArte\\Controllers\\ObraArteController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:54:34.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObraArte.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Models\\ObraArte.cs",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Models\\ObraArte.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Models\\ObraArte.cs",
+              "RelativeToolTip": "WebSubastaArte\\Models\\ObraArte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:59:23.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subasta.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Models\\Subasta.cs",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Models\\Subasta.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Models\\Subasta.cs",
+              "RelativeToolTip": "WebSubastaArte\\Models\\Subasta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:14:25.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebSubastaArte\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAIwIcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:25:07.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistraObra.css",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\css\\RegistraObra.css",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Content\\css\\RegistraObra.css",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\css\\RegistraObra.css",
+              "RelativeToolTip": "WebSubastaArte\\Content\\css\\RegistraObra.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T05:40:37.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrarSubasta.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "RelativeToolTip": "WebSubastaArte\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T08:09:11.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistraSubasta.css",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\css\\RegistraSubasta.css",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Content\\css\\RegistraSubasta.css",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\css\\RegistraSubasta.css",
+              "RelativeToolTip": "WebSubastaArte\\Content\\css\\RegistraSubasta.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T07:41:34.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrarObra.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Views\\ObraArte\\RegistrarObra.cshtml",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Views\\ObraArte\\RegistrarObra.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Views\\ObraArte\\RegistrarObra.cshtml",
+              "RelativeToolTip": "WebSubastaArte\\Views\\ObraArte\\RegistrarObra.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T06:40:26.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "WebSubastaArte\\Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABvbwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T08:36:14.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "WebSubastaArte\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebSubastaArte\\WebSubastaArte\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "WebSubastaArte\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADxlAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T08:34:33.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubastaController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\SubastaController.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\SubastaController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\SubastaController.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\SubastaController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:55:20.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrarSubasta.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Subasta\\RegistrarSubasta.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T04:23:37.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrarDieta.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T04:23:37.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActividadFisicaController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:23:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Acceder.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Acceder.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T05:01:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Registrar.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Login\\Registrar.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T05:01:16.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Subasta.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Subasta.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Subasta.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Subasta.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Subasta.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:23:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:23:37.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrarDieta.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Dieta\\RegistrarDieta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T07:03:01.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-30T04:23:37.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistraActividad.css",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-30T04:23:37.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\LoginController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T02:47:06.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistraActividad.css",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\RegistraActividad.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T06:25:36.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Content\\css\\Login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-31T05:10:37.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Global.asax.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Global.asax.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:23:06.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\ActividadFisica\\Registrar.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T05:09:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:24:49.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActividadFisica.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\ActividadFisica.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:04:43.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Web.config",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Web.config",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Web.config",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Web.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-30T03:58:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ActividadFisicaController.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Controllers\\ActividadFisicaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:02:48.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\App_Start\\RouteConfig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:47:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ValidarAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Permisos\\ValidarAcceso.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Permisos\\ValidarAcceso.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Permisos\\ValidarAcceso.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Permisos\\ValidarAcceso.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T07:53:26.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T07:44:34.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DBConexion.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\DBConexion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:54:01.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dieta.cs",
+              "DocumentMoniker": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Dieta.cs",
+              "RelativeDocumentMoniker": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Dieta.cs",
+              "ToolTip": "C:\\Users\\frojas3\\source\\repos\\WebFitnessProy1\\WebFitnessProy1\\Models\\Dieta.cs",
+              "RelativeToolTip": "..\\WebFitnessProy1\\WebFitnessProy1\\Models\\Dieta.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:01:18.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

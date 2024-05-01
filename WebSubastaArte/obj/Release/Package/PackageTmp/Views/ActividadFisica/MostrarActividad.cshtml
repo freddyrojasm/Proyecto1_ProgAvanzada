@@ -1,0 +1,55 @@
+﻿@model System.Data.DataTable
+@using System.Data
+
+@{
+    ViewBag.Title = "MostrarActividad";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mostrar Actividad del usuario</title>
+</head>
+<body>
+    <h1>Historial de actividades fisicas</h1>
+
+
+    <table class="table" border="1">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID Actividad</th>
+                <th>ID Usuario</th>
+                <th>Tipo Actividad</th>
+                <th>Fecha Hora</th>
+                <th>Duración (min)</th>
+                <th>Dist. Recorrida (km)</th>
+                <th>Calorias Quemadas</th>
+                <th>Comentarios</th>
+            </tr>
+        </thead>
+
+        @foreach (DataRow row in Model.Rows)
+        {
+            <tr>
+                <td>@row["IdActividad"]</td>
+                <td>@row["Correo"]</td>
+                <td>@row["TipoActividad"]</td>
+                <td>@row["FechaHora"]</td>
+                <td>@row["Duracion"]</td>
+                <td>@row["DistanciaRecorrida"]</td>
+                <td>@row["CaloriasQuemadas"]</td>
+                <td>@row["Comentarios"]</td>
+                <td>
+                    <!-- Enlaces o botones para modificar o eliminar el registro -->
+                    <a href="@Url.Action("Editar", "ActividadFisica", new { id = @row["IdActividad"] })">Editar</a> |
+                    <a href="@Url.Action("Eliminar", "ActividadFisica", new { id = @row["IdActividad"] })">Eliminar</a>
+                </td>
+
+            </tr>
+        }
+    </table>
+
+    <!-- Enlace para regresar a la vista RegistrarDieta -->
+    <a href="@Url.Action("Registrar", "ActividadFisica")" class="btn btn-secondary mb-4">Volver a Registrar Actividad Física</a>
+</body>
+</html>

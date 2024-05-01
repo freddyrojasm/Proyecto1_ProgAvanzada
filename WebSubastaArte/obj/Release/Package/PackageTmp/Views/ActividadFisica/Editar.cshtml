@@ -1,0 +1,53 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Editar Actividad Física</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Editar Actividad Física</h1>
+
+        <form action="@Url.Action("Actualizar", "ActividadFisica")" method="post" class="mt-4">
+            
+            
+            <input type="hidden" name="Id" value="@ViewBag.Id" class="form-control" readonly />
+
+            <div class="form-group">
+                <label>ID de Usuario (correo):</label>
+                <input type="text" name="Email" value="@ViewBag.IdUsuario" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label>Fecha-Hora:</label>
+                <input type="datetime" name="FechaHora" value="@ViewBag.FechaHora" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Duración:</label>
+                <input type="text" name="Duracion" value="@ViewBag.Duracion" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Distancia recorrida:</label>
+                <input type="text" name="DistanciaRecorrida" value="@ViewBag.DistanciaRecorrida" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Tipo de Actividad:</label>
+                <input type="text" name="TipoActividad" value="@ViewBag.TipoActividad" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Calorías Quemadas:</label>
+                <input type="text" name="CaloriasQuemadas" value="@ViewBag.CaloriasQuemadas" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Comentarios:</label>
+                <input type="text" name="Comentarios" value="@ViewBag.Comentarios" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-primary">Actualizar</button>
+        </form>
+    </div>
+
+</body>
+</html>
